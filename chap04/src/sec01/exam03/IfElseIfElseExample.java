@@ -3,7 +3,7 @@ package sec01.exam03;
 public class IfElseIfElseExample {
 
 	public static void main(String[] args) {
-		int score = 75;
+		int score = 85;
 		
 		// true인 조건식에 대한 중괄호를 실행한 후 조건문 종료. true 조건식이 없는 경우 else 중괄호 실행.
 		if(score >= 90) {
