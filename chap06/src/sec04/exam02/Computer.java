@@ -8,8 +8,7 @@ public class Computer {
 			sum += values[i];
 		}
 		
-		return sum;
-		
+		return sum;		
 	}
 
 	int sum2(int ... values) {
